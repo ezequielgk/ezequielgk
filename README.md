@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Ezequiel! 👋
 
-<!--
-**ezequielgk/ezequielgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Developer passionate about low-level programming and Unix-like environments. Currently exploring the intersection of C++ and Rust.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Languages:** 
+    *   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+    *   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+    *   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+*   **Currently Learning:** 
+    *   ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### 🖥 Workflow & Tools
+
+I love spending time in the terminal and tweaking my environment for maximum productivity.
+
+*   **Shell:** Fish Shell + Starship 
+*   **Editor:** Helix + Zed ⚡
+*   **OS:** Devuan
+*   **Environment:** Sway
+*   **Terminal:** Foot
+
+### 📊 Github Stats
+
+![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielgk&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielgk&layout=compact&theme=tokyonight)
