@@ -16,7 +16,7 @@ Junior Developer passionate about low-level programming and Unix-like environmen
 I love spending time in the terminal and tweaking my environment for maximum productivity.
 
 *   **Shell:** Fish Shell + Starship 
-*   **Editor:** Helix + Zed ⚡
+*   **Editor:** Helix + Zed
 *   **OS:** Devuan
 *   **Environment:** Sway
 *   **Terminal:** Foot
