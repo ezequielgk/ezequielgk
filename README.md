@@ -14,8 +14,3 @@ I love spending time in the terminal and tweaking my environment for maximum pro
 *   **OS:** Devuan
 *   **Environment:** Sway
 *   **Terminal:** Foot
-
-### 📊 Github Stats
-
-![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielgk&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielgk&layout=compact&theme=tokyonight)
